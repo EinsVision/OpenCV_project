@@ -1,8 +1,5 @@
 #include "OpenCV.h"
 
-using namespace std;
-using namespace cv;
-
 int main()
 {
 	cout << "Hello OpenCV " << CV_VERSION << endl;

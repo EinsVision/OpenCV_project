@@ -2,14 +2,16 @@
 #include <iostream>
 #include "opencv2/opencv.hpp"
 
-// Image 클래스 선언
+using namespace std;
+using namespace cv;
 
-class Image {
+class Variables
+{
 
 private:
-    int channel;
-    double height;
-    double width;
+    int     channel;
+    double  height;
+    double  width;
 
 public:
     void set_Image(int channel, double height, double width);
