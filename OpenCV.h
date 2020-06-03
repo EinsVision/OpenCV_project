@@ -5,15 +5,9 @@
 using namespace std;
 using namespace cv;
 
-class Variables
+class Projects_2
 {
-
-private:
-    int     channel;
-    double  height;
-    double  width;
-
 public:
-    void set_Image(int channel, double height, double width);
-    void show_Image();
-}; 
+	void m2_1();
+
+};
