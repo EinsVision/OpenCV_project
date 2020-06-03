@@ -15,5 +15,5 @@ class Projects_3
 {
 public:
 	void m3_1();  // 3.1 간략화한 Point_ 클래스 정의와 이름 재정의
-
+	void m3_2();  // 3.2 간략화한 Size_ 클래스 정의와 이름 재정의
 };
