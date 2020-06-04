@@ -19,4 +19,5 @@ public:
 	void m3_3();  // 3.3 Rect_ 클래스 정의와 이름 재정의
 	void m3_4();  // 3.4 RotatedRect 클래스 정의
 	void m3_5();  // 3.5 Range 클래스 정의
+	void m3_6();  // 3.6 Mat 객체 생성
 };
