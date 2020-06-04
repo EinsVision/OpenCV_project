@@ -20,5 +20,6 @@ public:
 	void m3_4();  // 3.4 RotatedRect 클래스 정의
 	void m3_5();  // 3.5 Range 클래스 정의
 	void m3_6();  // 3.6 Mat 객체 생성
-	void m3_7();  // 
+	void m3_7();  // 3.7 행렬의 복사 (얕은 복사, 깊은 복사)
+	void m3_8();  // 
 };
