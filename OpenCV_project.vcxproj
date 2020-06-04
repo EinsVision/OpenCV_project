@@ -162,6 +162,7 @@
     <ClCompile Include="m2_1.cpp" />
     <ClCompile Include="m2_2.cpp" />
     <ClCompile Include="m3_1.cpp" />
+    <ClCompile Include="m3_10.cpp" />
     <ClCompile Include="m3_2.cpp" />
     <ClCompile Include="m3_3.cpp" />
     <ClCompile Include="m3_4.cpp" />
