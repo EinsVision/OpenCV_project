@@ -29,4 +29,5 @@ public:
 	void m3_13(); // 3.13 Vec 클래스
 	void m3_14(); // 3.14 Scalar 클래스
 	void m3_15(); // 3.15 InputArray 클래스
+	void m3_16(); // 3.16 OutputArray 클래스
 };

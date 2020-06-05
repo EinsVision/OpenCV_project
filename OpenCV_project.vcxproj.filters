@@ -69,6 +69,9 @@
     <ClCompile Include="m3_15.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="m3_16.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="OpenCV.h">
