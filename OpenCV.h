@@ -28,4 +28,5 @@ public:
 	void m3_12(); // 3.12 크기 및 타입 변환 함수
 	void m3_13(); // 3.13 Vec 클래스
 	void m3_14(); // 3.14 Scalar 클래스
+	void m3_15(); // 3.15 InputArray 클래스
 };
