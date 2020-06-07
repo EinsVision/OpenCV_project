@@ -35,5 +35,5 @@ class Projects_4
 {
 public:
 	void m4_1();  // 4.1 VideoCapture 클래스
-
+	void m4_2();  // 4.2 카메라 입력 처리하기
 };
