@@ -31,3 +31,9 @@ public:
 	void m3_15(); // 3.15 InputArray 클래스
 	void m3_16(); // 3.16 OutputArray 클래스
 };
+class Projects_4
+{
+public:
+	void m4_1();  // 4.1 VideoCapture 클래스
+
+};
