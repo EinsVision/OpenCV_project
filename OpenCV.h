@@ -53,4 +53,5 @@ class Projects_5
 {
 public:
 	void m5_1();  // 5.1 그레이스케일 영상 다루기
+	void m5_2();  // 5.2 영상의 밝기 조절
 };
