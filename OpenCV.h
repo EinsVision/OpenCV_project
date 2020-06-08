@@ -49,3 +49,8 @@ public:
 	void m4_13();  // 4.13 연산시간 측정
 	void m4_14();  // 4.14 유용한 OpenCV 함수 사용법
 };
+class Projects_5
+{
+public:
+	void m5_1();  // 5.1 그레이스케일 영상 다루기
+};
