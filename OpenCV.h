@@ -47,4 +47,5 @@ public:
 	void m4_11();  // 4.11 FileStorage 클래스
 	void m4_12();  // 4.12 마스크 연산
 	void m4_13();  // 4.13 연산시간 측정
+	void m4_14();  // 4.14 유용한 OpenCV 함수 사용법
 };
