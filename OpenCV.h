@@ -62,3 +62,8 @@ public:
 	void m5_8();  // 5.8 히스토그램 스트레칭
 	void m5_9();  // 5.9 히스토그램 평활화
 };
+class Projects_6
+{
+public:
+	void m6_1();  // 6.1 영상의 산술 연산
+};
