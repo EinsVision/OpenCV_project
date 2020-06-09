@@ -1,7 +1,7 @@
 #pragma once
 #include <iostream>
 #include "opencv2/opencv.hpp"
-
+#include <opencv2/ximgproc/edge_filter.hpp>
 using namespace std;
 using namespace cv;
 
@@ -72,4 +72,5 @@ class Projects_7
 {
 public:
 	void m7_1();  // 7.1 엠보싱 필터링
+	void m7_2();  // 7.2 블러링: 영상 부드럽게 하기
 };
