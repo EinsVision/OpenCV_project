@@ -1,7 +1,7 @@
 #pragma once
 #include <iostream>
 #include "opencv2/opencv.hpp"
-#include <opencv2/ximgproc/edge_filter.hpp>
+
 using namespace std;
 using namespace cv;
 
@@ -73,5 +73,6 @@ class Projects_7
 public:
 	void m7_1();  // 7.1 엠보싱 필터링
 	void m7_2();  // 7.2 평균값 필터
-	void m7_3();  // 7.2 가우시안 필터
+	void m7_3();  // 7.3 가우시안 필터
+	void m7_4();  // 7.4 언샤프 마스크 필터 (샤프닝)
 };
