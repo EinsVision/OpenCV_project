@@ -68,3 +68,8 @@ public:
 	void m6_1();  // 6.1 영상의 산술 연산
 	void m6_2();  // 6.2 영상의 논리 연산
 };
+class Projects_7
+{
+public:
+	void m7_1();  // 7.1 엠보싱 필터링
+};
