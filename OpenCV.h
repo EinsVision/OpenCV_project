@@ -85,4 +85,5 @@ public:
 	void m8_1();  // 8.1 어파인 변환 warpAffine
 	void m8_2();  // 8.2 이동 변환 translation transformation
 	void m8_3();  // 8.3 전단 변환 shear transformation
+	void m8_4();  // 8.4 크기 변환 scale transformation
 };
