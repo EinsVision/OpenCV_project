@@ -77,4 +77,5 @@ public:
 	void m7_4();  // 7.4 언샤프 마스크 필터 (샤프닝)
 	void m7_5();  // 7.5 영상과 잡음 모델
 	void m7_6();  // 7.6 양방향 필터 bilateralFilter
+	void m7_m();  // 7.7 미디언 필터(median filter)
 };
