@@ -6,7 +6,7 @@ void Projects_8::m8_5()
     String imgPath("D:\\source\\OpenCV_project\\image\\beautiful.jpg");
     Mat img;
     Mat gray_img;
-    Mat dst;
+    Mat dst; 
     Mat dst2;
     img = imread(imgPath);
     cvtColor(img, gray_img, COLOR_BGR2GRAY);
