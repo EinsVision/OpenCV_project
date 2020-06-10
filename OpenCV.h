@@ -88,4 +88,5 @@ public:
 	void m8_4();  // 8.4 크기 변환 scale transformation
 	void m8_5();  // 8.5 회전 변환 rotation transformation
 	void m8_6();  // 8.6 대칭 변환 flip transformation
+	void m8_7();  // 8.7 투시 변환 perspective transform
 };
