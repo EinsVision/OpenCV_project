@@ -83,4 +83,5 @@ class Projects_8
 {
 public:
 	void m8_1();  // 8.1 어파인 변환 warpAffine
+	void m8_2();  // 8.1 이동 변환 translation transformation
 };
