@@ -2,8 +2,8 @@
 
 int main()
 {
-	Projects_7 project;
-	project.m7_m();
+	Projects_8 project;
+	project.m8_1();
 
 	return 0;
 }

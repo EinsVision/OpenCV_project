@@ -79,3 +79,8 @@ public:
 	void m7_6();  // 7.6 양방향 필터 bilateralFilter
 	void m7_m();  // 7.7 미디언 필터(median filter)
 };
+class Projects_8
+{
+public:
+	void m8_1();  // 8.1 어파인 변환 warpAffine
+};
