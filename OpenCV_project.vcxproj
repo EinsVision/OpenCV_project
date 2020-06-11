@@ -217,6 +217,7 @@
     <ClCompile Include="m8_6.cpp" />
     <ClCompile Include="m8_7.cpp" />
     <ClCompile Include="m9_1.cpp" />
+    <ClCompile Include="m9_2.cpp" />
     <ClCompile Include="OpenCV_project.cpp" />
   </ItemGroup>
   <ItemGroup>

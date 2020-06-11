@@ -94,4 +94,5 @@ class Projects_9
 {
 public:
 	void m9_1();  // 9.1 마스크 기반 에지 검출 Sobel filter
+	void m9_2();  // 9.2 캐니 에지 검출기 canny edge detector
 };
