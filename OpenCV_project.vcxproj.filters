@@ -189,6 +189,9 @@
     <ClCompile Include="m8_7.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="m9_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="OpenCV.h">
