@@ -102,4 +102,5 @@ class Projects_10
 {
 public:
 	void m10_1();  // 10.1 컬러 영상의 픽셀 값 참조
+	void m10_2();  // 10.2 
 };
