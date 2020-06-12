@@ -102,5 +102,6 @@ class Projects_10
 {
 public:
 	void m10_1();  // 10.1 컬러 영상의 픽셀 값 참조
-	void m10_2();  // 10.2 
+	void m10_2();  // 10.2 색 공간 변환
+	void m10_3();  // 10.3 색상 채널 나누기 split merge
 };
