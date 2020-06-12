@@ -96,4 +96,5 @@ public:
 	void m9_1();  // 9.1 마스크 기반 에지 검출 Sobel filter
 	void m9_2();  // 9.2 캐니 에지 검출기 canny edge detector
 	void m9_3();  // 9.3 허프 변환 직선 검출 hough transform
+	void m9_4();  // 9.4 허프 변환 원 검출 hough transform
 };
