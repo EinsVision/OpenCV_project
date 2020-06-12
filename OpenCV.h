@@ -106,4 +106,5 @@ public:
 	void m10_3();  // 10.3 색상 채널 나누기 split merge
 	void m10_4();  // 10.4 컬러 히스토그램 평활화 color Histogram equalize
 	void m10_5();  // 10.5 색상 범위 지정에 의한 영역 분할
+	void m10_6();  // 10.6 히스토그램 역투영 histogram backprojection
 };
