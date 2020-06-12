@@ -98,3 +98,8 @@ public:
 	void m9_3();  // 9.3 허프 변환 직선 검출 hough transform
 	void m9_4();  // 9.4 허프 변환 원 검출 hough transform
 };
+class Projects_10
+{
+public:
+	void m10_1();  // 10.1 컬러 영상의 픽셀 값 참조
+};
