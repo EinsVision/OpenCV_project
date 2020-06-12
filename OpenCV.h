@@ -108,3 +108,8 @@ public:
 	void m10_5();  // 10.5 색상 범위 지정에 의한 영역 분할
 	void m10_6();  // 10.6 히스토그램 역투영 histogram backprojection
 };
+class Projects_11
+{
+public:
+	void m11_1();  // 11.1 영상의 이진화 binarization
+};
