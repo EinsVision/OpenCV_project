@@ -114,4 +114,5 @@ public:
 	void m11_1();  // 11.1 영상의 이진화 binarization
 	void m11_2();  // 11.2 적응형 이진화 adaptive binarization
 	void m11_3();  // 11.3 이진 영상의 침식과 erosion dilation
+	void m11_4();  // 11.4 이진 영상의 열기와 닫기 opening closing
 };
