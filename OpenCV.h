@@ -122,4 +122,5 @@ public:
 	void m12_1();  // 12.1 레이블링의 이해 labeling
 	void m12_2();  // 12.2 레이블링 응용 labeling
 	void m12_3();  // 12.3 외곽선 검출 findContours
+	void m12_4();  // 12.4 외곽선 처리 함수 boundingRect
 };
