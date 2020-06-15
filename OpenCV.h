@@ -116,3 +116,9 @@ public:
 	void m11_3();  // 11.3 이진 영상의 침식과 erosion dilation
 	void m11_4();  // 11.4 이진 영상의 열기와 닫기 opening closing
 };
+class Projects_12
+{
+public:
+	void m12_1();  // 12.1 레이블링의 이해 labeling
+
+};
