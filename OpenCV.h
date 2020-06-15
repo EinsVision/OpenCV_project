@@ -112,4 +112,5 @@ class Projects_11
 {
 public:
 	void m11_1();  // 11.1 영상의 이진화 binarization
+	void m11_2();  // 11.2 적응형 이진화 adaptive binarization
 };
