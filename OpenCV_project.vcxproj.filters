@@ -237,6 +237,9 @@
     <ClCompile Include="m12_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="m12_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="OpenCV.h">
