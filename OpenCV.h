@@ -128,5 +128,5 @@ class Projects_13
 {
 public:
 	void m13_1();  // 13.1 템플릿 매칭 template matching
-
+	void m13_2();  // 13.2 캐스케이드 분류기와 얼굴 검출 cascade classifier and face detection
 };
