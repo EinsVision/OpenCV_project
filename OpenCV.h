@@ -130,4 +130,5 @@ public:
 	void m13_1();  // 13.1 템플릿 매칭 template matching
 	void m13_2();  // 13.2 캐스케이드 분류기와 얼굴 검출 cascade classifier and face detection
 	void m13_3();  // 13.3 HOG 알고리즘과 보행자 검출 Histograms of Oriented Gradients
+	void m13_4();  // 13.4 QR 코드 검출 
 };
