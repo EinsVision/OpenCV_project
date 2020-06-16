@@ -124,3 +124,9 @@ public:
 	void m12_3();  // 12.3 외곽선 검출 findContours
 	void m12_4();  // 12.4 외곽선 처리 함수 boundingRect
 };
+class Projects_13
+{
+public:
+	void m13_1();  // 13.1 템플릿 매칭 template matching
+
+};
