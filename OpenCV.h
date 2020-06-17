@@ -140,4 +140,5 @@ public:
 	void m14_3();  // 14.3 Scale Invariant Feature Transform (SIFT)
 	void m14_4();  // 14.4 OpenCV 특징점 매칭
 	void m14_5();  // 14.5 findHomography
+	void m14_6();  // 14.6 영상 이어 붙이기(image stitching)
 };
