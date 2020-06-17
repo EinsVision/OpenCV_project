@@ -132,3 +132,9 @@ public:
 	void m13_3();  // 13.3 HOG 알고리즘과 보행자 검출 Histograms of Oriented Gradients
 	void m13_4();  // 13.4 QR 코드 검출 
 };
+class Projects_14
+{
+public:
+	void m14_1();  // 14.1 해리스 코너 검출 방법 Harris corner
+	
+};
