@@ -137,4 +137,5 @@ class Projects_14
 public:
 	void m14_1();  // 14.1 해리스 코너 검출 방법 Harris corner
 	void m14_2();  // 14.2 FAST 코너 검출 방법
+	void m14_3();  // 14.3 Scale Invariant Feature Transform (SIFT)
 };
