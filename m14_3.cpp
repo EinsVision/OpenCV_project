@@ -2,7 +2,7 @@
 
 void Projects_14::m14_3()
 {
-	// 14.3 Scale Invariant Feature Transform (SIFT)
+	// 14.3 Scale Invariant Feature Transform (SIFT) 크기 불변 특징점 알고리즘
 	// 크기가 다른 영상에서도 지속적으로 코너를 
 	// 검출할 수 있는 크기 불변 코너 추출 방법이다.
 	String imgPath("D:\\source\\OpenCV_project\\image\\box_in_scene.png");
