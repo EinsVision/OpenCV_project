@@ -146,4 +146,5 @@ class Projects_15
 {
 public:
 	void m15_1();  // 15.1 kNN 알고리즘을 이용한 2차원 점 분류
+	void m15_2();  // 15.2 kNN 알고리즘을 이용한 필기체 숫자 학습
 };
