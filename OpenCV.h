@@ -142,3 +142,8 @@ public:
 	void m14_5();  // 14.5 findHomography
 	void m14_6();  // 14.6 영상 이어 붙이기(image stitching)
 };
+class Projects_15
+{
+public:
+	void m15_1();  // 15.1 kNN 알고리즘을 이용한 2차원 점 분류
+};
